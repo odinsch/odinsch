@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/odinsch](https://github.com/odinsch)
 
-- 💡 Check out my [website]! (https://serene-sea-35235.herokuapp.com/)
+- 💡 Check out my [website](https://serene-sea-35235.herokuapp.com/)
 
 - 📫 How to reach me **odinsch@gmail.com**
 
