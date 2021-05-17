@@ -5,9 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/odinsch](https://github.com/odinsch)
 
+- 💡 Check out my [website]! (https://serene-sea-35235.herokuapp.com/)
+
 - 📫 How to reach me **odinsch@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o9zGZhYAYjHKhlESXlB12g2rJjmtLuxC/view?usp=sharing](https://drive.google.com/file/d/1o9zGZhYAYjHKhlESXlB12g2rJjmtLuxC/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1o9zGZhYAYjHKhlESXlB12g2rJjmtLuxC/view?usp=sharing)
 
 - ⚡ Fun fact **I can play every Beatles, Queen, Radiohead and Bowie song.**
 
