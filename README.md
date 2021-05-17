@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Odin</h1>
 <h3 align="center">A curious and enthusiastic web developer</h3>
 
-- 👯 I’m looking to collaborate on **Puzzle and PNC games**
+- 👯 I’m looking to team-up on front-end and back-end projects 
 
 - 👨‍💻 All of my projects are available at [https://github.com/odinsch](https://github.com/odinsch)
 
