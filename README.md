@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I can play every Beatles, Queen, Radiohead and Bowie song.**
 
+- 🤠 More about [me](https://drive.google.com/file/d/1yvKyv3L2GaqHEJxa9WJmuE_dN20KnVGf/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/odinschwartz" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" alt="odinschwartz" height="30" width="40" /></a>
