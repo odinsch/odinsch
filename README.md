@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **odinsch@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1o9zGZhYAYjHKhlESXlB12g2rJjmtLuxC/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1uA9r4NWk4u5ptCFZhcXV-GkBK4o4CXgn/view?usp=sharing)
 
 - ⚡ Fun fact **I can play every Beatles, Queen, Radiohead and Bowie song.**
 
